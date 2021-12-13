@@ -1,0 +1,15 @@
+body{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    border: black;
+}
+#Weekly-Newsletter-Sign-up{
+
+    margin: 24%;
+    width: 35%;
+}
+
+#For-Sale img{
+    border-radius: 12px;
+
+}
