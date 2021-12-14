@@ -3,13 +3,13 @@ body{
     font-family: 'Courier New', Courier, monospace;
     border: black;
 }
-#Weekly-Newsletter-Sign-up{
+ul{
 
     margin: 24%;
     width: 35%;
 }
 
-#For-Sale img{
+ img{
     border-radius: 12px;
 
 }
